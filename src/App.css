@@ -1,0 +1,19 @@
+#root{
+    background-color: var(--color-bg);
+    font-family: var(--font-family);
+    margin:0;
+    padding:0
+}
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+/* #c5c6c7  white-grey
+#1f2833  black-backgrounf
+#66fcf1 blue
+*/

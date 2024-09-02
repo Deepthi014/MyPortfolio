@@ -1,0 +1,103 @@
+{
+    "home":[
+        {
+            "introduction":"I am a versatile software developer skilled in front-end, back-end, and full-stack development. I specialize in creating dynamic and responsive web applications and am passionate about continuously expanding my skills.",
+            "img":"./src/assets/Deepthi_HD_img.png"
+            
+        }
+    ],
+    "education":[
+        {
+            "date":"2020",
+            "course":"S.S.L.C",
+            "institute":"Vidyadaayinee High School, Surathkal, Mangalore",
+            "percentage":"88%"
+        },
+        {
+            "date":"2022",
+            "course":"P.U.C (Commerce)",
+            "institute":"Govt. P U College for Women, Balmatta, Mangalore",
+            "percentage":"91%"
+        },
+        {
+            "date":"2025",
+            "course":"Diploma in Computer Sceince and Engineering",
+            "institute":"Karnataka Govt. Polytechnic, Kadri Hills, Mangalore",
+            "percentage":"85%"
+        }
+    ],
+    "project":[
+        {
+            "title":"Temple Website",
+            "description":"Temple Website using HTML, CSS.",
+            "img":"./src/assets/Project1.png",
+            "url":"https://deepthi014.github.io/Temple/"
+        },
+        {
+            "title":"Social Website",
+            "description":"Social Website using React JS",
+            "img":"./src/assets/Project2.png",
+            "url":"https://deepthi014.github.io/Temple/"
+        },
+        {
+            "title":"Restaurant Website",
+            "description":"Restaurant Website using HTML CSS and Java Script.",
+            "img":"./src/assets/Project3.png",
+            "url":"https://deepthi014.github.io/RestoProject/"
+        }
+    ],
+    "tech_skills":[
+        {
+            "title":"PYTHON",
+            "img":"./src/assets/python.png"
+        },
+        {
+            "title":"JAVA",
+            "img":"./src/assets/java.png"
+        },
+        {
+            "title":"HTML",
+            "img":"./src/assets/html.png"
+        },
+        {
+            "title":"CSS",
+            "img":"./src/assets/css.png"
+        },
+        {
+            "title":"JAVA SCRIPT",
+            "img":"./src/assets/javascript.png"
+        },
+        {
+            "title":"REACT",
+            "img":"./src/assets/react.png"
+        },
+        {
+            "title":"FIGMA",
+            "img":"./src/assets/figma.png"
+        },
+        {
+            "title":"MONGODB",
+            "img":"./src/assets/mongoDb.png"
+        }
+        
+    ],
+    "perso_skills":[
+        {
+            "title":"Communication"
+
+        },
+        {
+            "title":"Problem Solving"
+
+        },
+        {
+            "title":"Collaboration"
+
+        },
+        {
+            "title":"Time Management"
+
+        }
+
+    ]
+}
