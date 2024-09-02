@@ -2,7 +2,7 @@
   "name": "myportfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Deepthi014.github.io/DeepthiPortfolio",
+  "homepage": "https://Deepthi014.github.io/MyPortfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
