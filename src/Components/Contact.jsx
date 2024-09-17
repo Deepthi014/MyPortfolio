@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 import emailjs from 'emailjs-com';
 import "./Contact.css"
-import fileToDownload from '../assets/logo.png'
+// import fileToDownload from '../public/assets/css.png'
 
 const Contact = () => {
     const form = useRef();
@@ -33,9 +33,9 @@ const Contact = () => {
                     <div className="social-icons">
                         <a href="https://www.linkedin.com/in/deepthi-shettigar-25826b274/"><i class='bx bxl-linkedin' ></i></a>
                         <a href="https://x.com/Deepthi738393"><i class='bx bxl-twitter'></i></a>
-                        <a href="https://github.com/Deepthi014"><i class='bx bxl-github'></i></a>
+                        <a href="#"><i class='bx bxl-github'></i></a>
                     </div>
-                    <a href={fileToDownload} download target="_blank"  className='btn c_btn btn2'>Download CV</a>
+                    <a href="/assets/css.png" download target="_blank"  className='btn c_btn btn2'>Download CV</a>
                 </div>
                 <div className="contact-right">
                     <form ref={form} onSubmit={sendEmail}>

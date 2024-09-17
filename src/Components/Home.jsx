@@ -24,7 +24,7 @@ const Home = () => {
                 <div className="link_buttons">
                     <div className="social_icons">
                         <a href="https://www.linkedin.com/in/deepthi-shettigar-25826b274/"><i class='bx bxl-linkedin'></i></a>
-                        <a href="https://github.com/Deepthi014" ><i class='bx bxl-github' ></i></a>
+                        <a href="#" ><i class='bx bxl-github' ></i></a>
                     </div>
                     <div className="btn_group">
                         <a href="#contact" className="btn"><i class='bx bx-phone'></i>Contact</a>

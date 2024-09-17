@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState } from "react";
 import "./Navbar.css";
-import logo from "../assets/DeepthiLogo.png";
+// import logo from "../assets/DeepthiLogo.png";
 
 const Navbar = () => {
   const sidemenuRef = useRef(null);
@@ -44,7 +44,7 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar_logo">
           <a href="#home" className="logo">
-            <img src={logo} alt="" />
+            <img src="public/assets/DeepthiLogo.png" alt="D_logo" />
           </a>
         </div>
 

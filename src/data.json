@@ -2,7 +2,7 @@
     "home":[
         {
             "introduction":"I am a versatile software developer skilled in front-end, back-end, and full-stack development. I specialize in creating dynamic and responsive web applications and am passionate about continuously expanding my skills.",
-            "img":"./src/assets/Deepthi_HD_img.png"
+            "img":"public/assets/Deepthi_HD_img.png"
             
             
         }
@@ -31,54 +31,54 @@
         {
             "title":"Temple Website",
             "description":"Temple Website using HTML, CSS.",
-            "img":"./src/assets/Project1.png",
-            "url":"https://deepthi014.github.io/Temple/"
-        },
-        {
-            "title":"Social Website",
-            "description":"Social Website using React JS",
-            "img":"./src/assets/Project2.png",
+            "img":"public/assets/Project1.png",
             "url":"https://deepthi014.github.io/Temple/"
         },
         {
             "title":"Restaurant Website",
             "description":"Restaurant Website using HTML CSS and Java Script.",
-            "img":"./src/assets/Project3.png",
+            "img":"public/assets/Project3.png",
             "url":"https://deepthi014.github.io/RestoProject/"
+        },
+        {
+            "title":"Social Website",
+            "description":"Social Website using React JS",
+            "img":"public/assets/Project2.png",
+            "url":"https://deepthi014.github.io/Temple/"
         }
     ],
     "tech_skills":[
         {
             "title":"PYTHON",
-            "img":"./src/assets/python.png"
+            "img":"public/assets/python.png"
         },
         {
             "title":"JAVA",
-            "img":"./src/assets/java.png"
+            "img":"public/assets/java.png"
         },
         {
             "title":"HTML",
-            "img":"./src/assets/html.png"
+            "img":"public/assets/html.png"
         },
         {
             "title":"CSS",
-            "img":"./src/assets/css.png"
+            "img":"public/assets/css.png"
         },
         {
             "title":"JAVA SCRIPT",
-            "img":"./src/assets/javascript.png"
+            "img":"public/assets/javascript.png"
         },
         {
             "title":"REACT",
-            "img":"./src/assets/react.png"
+            "img":"public/assets/react.png"
         },
         {
             "title":"FIGMA",
-            "img":"./src/assets/figma.png"
+            "img":"public/assets/figma.png"
         },
         {
             "title":"MONGODB",
-            "img":"./src/assets/mongoDb.png"
+            "img":"public/assets/mongoDb.png"
         }
         
     ],
